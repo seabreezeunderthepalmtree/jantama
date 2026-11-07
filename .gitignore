@@ -1,5 +1,5 @@
-*
-!README.md
-!Images/
-!Images/*
-!.gitignore
+/*
+!/.gitignore
+!/*.md
+!/Images/
+!/Stats/
