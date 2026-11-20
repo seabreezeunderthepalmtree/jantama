@@ -2222,7 +2222,7 @@ dora2及以上的无役愚形，应该立直。立直后至少有5200点，就�
 - [Mahjong Efficiency Trainer](https://euophrys.itch.io/mahjong-efficiency-trainer)，提供牌效率、弃和、点数计算和向听数训练。
 - [Mahjong Nanikiru Simulator](https://pystyle.info/apps/mahjong-nanikiru-simulator/)，通过一人麻将模拟比较不同舍牌的期待得点、听牌率和和牌率。
 - [雀魂牌谱屋](https://amae-koromo.sapk.ch/)，提供对局数据统计、金之间及以上房间的牌谱查询、雀士三及以上玩家的数据查询和排行榜等功能，是很实用的工具。
-- [Mortal 模型复盘工具](https://mjai.ekyu.moe/zh-cn.html)。将对局牌谱链接粘贴进去，即可查看每一巡的实际操作与AI推荐决策之间的对比。建议选择Classic界面，方便对照游戏内的牌谱逐巡查看。个人不太喜欢KillerDucky的界面。
+- [Mortal模型复盘工具](https://mjai.ekyu.moe/zh-cn.html)。将对局牌谱链接粘贴进去，即可查看每一巡的实际操作与AI推荐决策之间的对比。建议选择Classic界面，方便对照游戏内的牌谱逐巡查看。个人不太喜欢KillerDucky的界面。
 
 书籍：
 - [《魔女博客---初心の入门书》](https://github.com/Jackey-Marine/Mahjong-B2D/blob/main/魔女blog（相对完整版）.pdf)。内容不是很全面，不过前面讲牌效率和防守的部分读起来非常轻松，对纯新手来说很容易上手。是上卷的骨架，非常推荐阅读。
