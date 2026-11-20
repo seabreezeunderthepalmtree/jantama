@@ -2182,8 +2182,6 @@ dora2及以上的无役愚形，应该立直。立直后至少有5200点，就�
 
 不推荐靠看主播或比赛提升水平，因为他们大部分决策你也会做，你会浪费很多时间看自己已经会的东西，效率不高。更推荐看高手的牌谱，可以直接跳到困难的决策，集中学习自己不会的部分。
 
-之后如果还想看书，可以看看[这位B站博主翻译的麻将书籍](https://space.bilibili.com/4067381/upload/opus)。
-
 下卷涉及较多主观判断，因此我会持续将书中的分析与AI的建议对照，不断修正和完善。
 
 ## 附录
@@ -2203,7 +2201,7 @@ dora2及以上的无役愚形，应该立直。立直后至少有5200点，就�
 - [雀魂赤羽之战规则](https://zh.moegirl.org.cn/雀魂麻将/特色规则)。
 - [雀魂规则参考](https://zh.moegirl.org.cn/雀魂麻将)。
 - [不同役和里宝牌数量的关系](https://note.com/mahjong_math/n/n3dd3441b09c4?after_purchase=true&scrollpos=paywall)，是收费文章。
-- 《「統計学」のマージャン戦術》英译本 [Statistical Mahjong Strategy](https://files.catbox.moe/ofyysq.pdf)
+- 《「統計学」のマージャン戦術》英译本 [Statistical Mahjong Strategy](https://files.catbox.moe/ofyysq.pdf)。
 
 自媒体：
 - [星野Poteto](https://space.bilibili.com/303003611)，麻将教学UP主。讲解详细，非常推荐观看。是上卷的重要补充材料。
